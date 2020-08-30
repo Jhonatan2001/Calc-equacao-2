@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\bin\Debug\Projeto_Matematica.exe.config
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\bin\Debug\Projeto_Matematica.exe
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\bin\Debug\Projeto_Matematica.pdb
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.Form1.resources
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.Properties.Resources.resources
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.csproj.GenerateResource.cache
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.exe
+C:\Users\jhona\source\repos\Projeto_Matematica\Projeto_Matematica\obj\Debug\Projeto_Matematica.pdb
